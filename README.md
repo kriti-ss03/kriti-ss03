@@ -32,9 +32,8 @@
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+[![figma]( https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
+[![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
 [![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]
@@ -45,7 +44,27 @@
 <br/>  
 
 
-## Connect with me  
+
+
+## Github Stats  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriti-ss03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti-ss03&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>   -->
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kriti-ss03&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+  ## Connect with me  
 <div align="center">
 <a href="https://github.com/kriti-ss03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -61,32 +80,11 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriti-ss03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti-ss03&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kriti-ss03&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
