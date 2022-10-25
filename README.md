@@ -1,10 +1,10 @@
-# kriti-ss03
+#  I'm Sanskriti Srivastava🙋‍♀️
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Sanskriti Srivastava🙋‍♀️</div>  
+### About Me
   
 
 - 🌱 I’m currently learning Web3 and React.  
@@ -13,7 +13,7 @@
 - ❓ Ask me about anything related to web development and design stuff.  
   
 
-- ⚡ Lavender haze
+- 🎶 vibin' with Lavender haze
   
 
 <br/>  
@@ -47,11 +47,11 @@
 
 
 ## Github Stats  
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriti-ss03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriti-ss03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti-ss03&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>   -->
+<br/>  
 
   
 
